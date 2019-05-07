@@ -1,0 +1,7 @@
+D:\WORKSPACE\C#\BasicCalculationQ\BasicCalculationQ\bin\Debug\BasicCalculationQ.exe.config
+D:\WORKSPACE\C#\BasicCalculationQ\BasicCalculationQ\bin\Debug\BasicCalculationQ.exe
+D:\WORKSPACE\C#\BasicCalculationQ\BasicCalculationQ\bin\Debug\BasicCalculationQ.pdb
+D:\WORKSPACE\C#\BasicCalculationQ\BasicCalculationQ\obj\Debug\BasicCalculationQ.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\C#\BasicCalculationQ\BasicCalculationQ\obj\Debug\BasicCalculationQ.exe
+D:\WORKSPACE\C#\BasicCalculationQ\BasicCalculationQ\obj\Debug\BasicCalculationQ.pdb
+D:\WORKSPACE\C#\BasicCalculationQ\BasicCalculationQ\obj\Debug\BasicCalculationQ.csprojResolveAssemblyReference.cache
